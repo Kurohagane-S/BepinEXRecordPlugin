@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "7qBVPXY+sahkhNrpBGLltWhra6mK6OX7hxVU5Nu6atPnfelNuE9Kp+VTCwIzozscbmRlrHNkgfDCEdEoqpghnA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Kurohagane\\Desktop\\ExtraAPPS\\CS projects\\CS projects.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package BepInEx. No packages exist with this id in source(s): nuget.org",
+      "libraryId": "BepInEx",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}
